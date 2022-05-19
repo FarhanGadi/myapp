@@ -1,0 +1,21 @@
+.footer_cont{
+    background-size: 100% 100%;
+    color: white;
+    background-attachment: fixed;
+    background-image:linear-gradient(rgba(47, 47, 47, 0.8),rgba(46, 46, 46, 0.8)), url(../../../assets/Training\ Institiue\ Images/img.jpg21.jpg);
+}
+.btn_inp{
+    background-color: orangered;
+    border: 1px solid orangered;
+}
+.footer_input{
+    background-color: transparent;
+    color:white;
+}
+.footer_cont1{
+    background-color: #F7F7F7;
+}
+body{
+    font-family: 'Josefin Sans', sans-serif;
+    font-family: 'Montserrat', sans-serif;
+}

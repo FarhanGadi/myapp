@@ -1,0 +1,69 @@
+
+
+.table_para{
+    font-size: 30px;
+    color: #002B46;
+    line-height: 33px;
+    transition-duration: .5s;
+}
+.table_para1{
+    color: #EB7F1C;
+    transition-duration: .5s;
+}
+body{
+    font-family: sans-serif;
+}
+.hor1{
+    width: 95%;
+    background-color: #002B46;
+    height: 1.2px;
+    border: none;
+    
+}
+.tbpra{
+    color: gray;
+    font-size: 14px;
+}
+.bttn{
+    border:1px solid rgb(83, 83, 83);
+    background-color: white;
+    border-radius: 2px;
+    transition-duration: 1s;
+}
+.bttn:hover{
+    background-color: #002B46;
+    color: #F7F7F7;
+    cursor: pointer;
+}
+.tbl_card:hover{
+    box-shadow: 0 0 2px 2px rgba(163, 163, 163, 0.622);
+    border: none;
+    cursor: pointer;
+}
+.tbl_card{
+    border: 1px solid rgba(189, 189, 189, 0.86);
+    transition-duration: 1s;
+
+}
+.tbl_card:hover .table_para{
+    color: #EB7F1C;
+
+}
+.tbl_card:hover .table_para1{
+    color: #002B46;
+
+}
+.tbl_card:hover .hor1{
+    background-color: #EB7F1C;
+}
+.contCard{
+    width: 90%;
+}
+.MainContainer{
+    width: 95%;
+    border: 1px solid #000;
+
+}
+.cooller{
+    width: 30%;
+}

@@ -1,0 +1,18 @@
+.card1{
+    background-color: #EB7F1C;
+}
+.cont{
+    width: 80%;
+}
+.pra{
+    font-size: 32px;
+    color: white;
+}
+.cont1{
+    background-color: #F7F7F7;
+}
+.cont2{
+    background-image:linear-gradient(rgba(0,0,0,0.6),rgba(0,0,0,0.6)), url("../../../assets/Training\ Institiue\ Images/img.jpg07.jpg");
+    background-size: 100% 100%;
+    background-attachment: fixed;
+}

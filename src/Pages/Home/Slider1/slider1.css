@@ -1,0 +1,35 @@
+/* .slideCard{
+    /* border: 1px solid #000; */
+  
+
+/* } */ 
+.autoSlider{
+    height: 65vh;
+    width: 90%;
+}
+
+.slideCard>p{
+        font-weight: lighter;
+        font-size: 16px;
+}
+.IMG1{
+    background-image: url(../../../assets/Training\ Institiue\ Images/img.jpg12.jpg);
+}
+.IMG2{
+    background-image: url(../../../assets/Training\ Institiue\ Images/img.jpg13.jpg);
+}
+.IMG3{
+    background-image: url(../../../assets/Training\ Institiue\ Images/img.jpg14.jpg);
+}
+.IMG4{
+    background-image: url(../../../assets/Training\ Institiue\ Images/img.jpg15.jpg);
+}
+.IMG5{
+    background-image: url(../../../assets/Training\ Institiue\ Images/img.jpg13.jpg);
+}
+.IMG6{
+    background-image: url(../../../assets/Training\ Institiue\ Images/img.jpg11.jpg);
+}
+.IMG7{
+    background-image: url(../../../assets/Training\ Institiue\ Images/img.jpg15.jpg);
+}

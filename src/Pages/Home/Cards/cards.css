@@ -1,0 +1,56 @@
+.cardMain{
+    position: relative;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    
+}
+.cardMain>h4{
+    color: rgb(35, 33, 33);
+    transition-duration: .3s;
+}
+.cardMain>h4:hover{
+    color: #EB7F25 ;
+}
+.cardMain:hover{
+    box-shadow: 0px 0px 9px 2px rgba(105, 105, 105, 0.563) ;
+}
+.circle{
+    height:86px;
+    width: 86px;
+    border: 5px solid rgb(255, 255, 255);
+    position: absolute;
+    border-radius: 360px;
+    top: -20%;
+    left: 36%;
+    background-color: #F7F7F7;
+    transition-duration:1s ;
+    display:  flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+.cardMain:hover .circle{
+        background-color: #EB7F25;
+        transform: rotateY(-180deg);
+    box-shadow: 0px 0px 9px 2px rgba(105, 105, 105, 0.563) ;
+    
+}
+.cardMain:hover .cardicon{
+    color: white;
+}
+.cardicon{
+    font-size: 30px;  
+    font-weight: bold;
+    color:#EB7F25;
+    transition-duration:1s ;
+
+}
+
+
+
+
+
+/* -----------------PRICING TABLE----------------- */
+

@@ -1,0 +1,27 @@
+.autoimg1{
+    background-image: url(../../../assets/Training\ Institiue\ Images/img.jpg16.png);
+    background-size: 100% 100%;
+}
+.autoimg2{
+    background-image: url(../../../assets/Training\ Institiue\ Images/img.jpg17.png);
+    background-size: 100% 100%;
+}
+.autoimg3{
+    background-image: url(../../../assets/Training\ Institiue\ Images/img.jpg18.png);
+    background-size: 100% 100%;
+}
+.autoimg4{
+    background-image: url(../../../assets/Training\ Institiue\ Images/img.jpg19.png);
+    background-size: 100% 100%;
+}
+.autoSmall{
+    height: 20vh;
+    width: 90%;
+    
+}
+.slider2main{
+    /* background-color:  black; */
+    width: 100%;
+
+    
+}

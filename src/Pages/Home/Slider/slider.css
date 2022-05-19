@@ -1,0 +1,14 @@
+.mySwiper{
+    height: 93vh;
+    border: 1px solid #000;
+}
+.slide1{
+    background-image:linear-gradient(rgb(0, 0, 0,0.5),rgb(0, 0, 0,0.3)), url(../../../assets/Training\ Institiue\ Images/img.jpg08.jpg);
+    background-size: 100% 100%;
+  
+}
+.slide2{
+    background-image:linear-gradient(rgb(0, 0, 0,0.5),rgb(0, 0, 0,0.3)),url(../../../assets/Training\ Institiue\ Images/img.jpg07.jpg);
+    background-size: 100% 100%;
+    
+}
